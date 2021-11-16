@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f6f6;
+}
+.bts {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    display: flex;
+    width: 1000px;
+    background: #fff;
+}
+
+.bts_image {
+    padding-left: 47px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.bts_text {
+    padding-top: 94px;
+    padding-left: 97px;
+}
+
+.bts_title {
+    margin-bottom: 31px;
+}
+
+.p_t {
+    margin-bottom: 18px;
+}
+
+.price {
+    margin-bottom: 36px;
+}
+
+.button {
+    padding: 16px 39px;
+    color: white;
+    background: #ec744a;
+    border: none;
+    cursor: pointer;
+}
